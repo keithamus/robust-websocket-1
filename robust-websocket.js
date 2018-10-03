@@ -75,7 +75,7 @@
     }
 
     self.send = function() {
-      return realWs.send.apply(realWs, arguments)
+      return realWs.send && realWs.send.apply(realWs, arguments)
     }
 
     self.close = function(code, reason) {
