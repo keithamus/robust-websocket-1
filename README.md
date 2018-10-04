@@ -1,5 +1,7 @@
 # robust-websocket
 
+# This repository has moved to https://github.com/nathanboktae/robust-websocket
+
 #### A robust, reconnecting WebSocket client for the browser
 
 [![SauceLabs Test Status](https://saucelabs.com/browser-matrix/robustwebsocket.svg)](https://saucelabs.com/u/robustwebsocket)
